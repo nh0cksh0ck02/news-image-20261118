@@ -1,6 +1,8 @@
 # The World's News in One Picture - 18 November 2026
 
-[![makefun:news-image-20261118](https://img.shields.io/badge/makefun-news--image--20261118-8A2BE2)](https://make.fun/c/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/nh0cksh0ck02/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/nh0cksh0ck02/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An automated global visual journalism submission capturing the most significant events of **Wednesday, 18 November 2026** compiled into a single high-resolution news collage (`entry.png`).
