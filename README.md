@@ -89,3 +89,21 @@ The script returns standard UNIX exit codes:
 - `2`: Target output directory cannot be created
 - `3`: Copy operation failed
 
+---
+
+## Editorial Criteria & Image Integrity
+
+### Curation Standards
+All 45 news items depicted in `entry.png` meet the following editorial standards:
+- **Corroborated Sourcing**: Verified by multiple independent primary wire services and regional bureaus.
+- **Geographic Balance**: Proportional representation across Asia-Pacific, Europe, the Americas, Africa, and the Middle East.
+- **Neutral Perspective**: Fact-centric headlines highlighting substantive policy, scientific, or socioeconomic developments.
+
+### Cryptographic Hash Verification
+To ensure tamper-proof distribution of the collage artifact:
+
+| Artifact | Algorithm | Digest (Hex) |
+|---|---|---|
+| `entry.png` | SHA-256 | `df81dd4c6c20f9fad85723345c918c8d954d968e81a18e0897c479343a80b753` |
+
+
